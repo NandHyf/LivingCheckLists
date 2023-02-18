@@ -1,12 +1,17 @@
 # 生活清单 livingCheckLists
 
 顾名思义, 生活所需物品清单, 有感于自己出去租房住, 整理了一下需要的物品及顺序
+
 后期计划在`Release`里放一些比如`最低生活质量保障` `添件儿思路`等清单等以供参考
 
 LTS Project✅
+
 Pull requests✅ 欢迎大家上传合并各国/省/市/区生活指南, 让这份指南变得更加全面且准确
+
 Sex-related topics ✅ 众所周知, 性也是生活中的重要部分, 所以这里不会禁止性方面话题, 但不会合并任何包含不道德行为立场的内容
+
 Gamble❌ Drugs❌ 同前, 不会合并任何出现赌博与毒品相关内容
+
 Professional Medical Advice❌ 请尊重专业医学手段所需的条件, 本指南不会合并任何包含专业医学建议的内容
 
 联系方式 💌 nandhyf404@gmail.com
