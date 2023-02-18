@@ -19,6 +19,7 @@ Gamble❌ Drugs❌ 本指南不会合并任何包含赌博与毒品相关的(整
 
 Professional Medical Advice❌ 请尊重专业医学手段所需要的条件, 本指南不会合并任何包含专业医学建议的(整篇)内容
 
+
 **关于提交合并**
 
 1. 提交内容请参考README, 允许适当发挥, **但请务必以易于理解为首要需求** 过于复杂内容多半不会通过审核
@@ -27,8 +28,10 @@ Professional Medical Advice❌ 请尊重专业医学手段所需要的条件, �
 
 3. 如有**重要/重要紧急 需求**, 我的联系方式是💌 nandhyf404@gmail.com
 
+
 **另外, 也许这些也可以为你提供帮助**
 [955.WLB](https://github.com/formulahendry/955.WLB)
+
 [966.ICU/中文版](https://github.com/996icu/996.ICU/blob/master/README_CN.md)
 
 ---
