@@ -12,7 +12,7 @@ Sex-related topics✅ 众所周知, 性也是生活中的一部分, 所以这里
 
 Gamble❌ Drugs❌ 本指南不会合并任何包含赌博与毒品相关的(整篇)内容
 
-Professional Medical Advice❌ 请尊重专业医学手段所需的条件, 本指南不会合并任何包含专业医学建议的内容
+Professional Medical Advice❌ 请尊重专业医学手段所需的条件, 本指南不会合并任何包含专业医学建议的(整篇)内容
 
 联系方式 💌 nandhyf404@gmail.com
 
